@@ -1,0 +1,25 @@
+---
+title: "pseval Practicum"
+author: "Michael C Sachs"
+date: "July 18, 2016"
+output: html_document
+---
+
+## Datasets
+
+- Binary outcome, continuous surrogate: 
+    + [download csv](https://sachsmc.github.io/pseval-course/Data/data1.csv)
+- Time to event outcome (tau = 0.001), continuous surrogate
+    + [download xlsx](https://sachsmc.github.io/pseval-course/Data/ttedata.xlsx)
+- Binary outcome, categorical S and BIP
+    + [download dta](https://sachsmc.github.io/pseval-course/Data/nonparametric.dta)
+    
+## Handouts
+
+- [pseval Cheatsheet](https://sachsmc.github.io/pseval-course/psevael-cheatsheet.pdf)
+- [Intro to R slides](https://sachsmc.github.io/pseval-course/pseval-practicum.pdf)
+
+## Contact
+
+- [Michael Sachs (sachsmc@gmail.com)](mailto:sachsmc@gmail.com)
+
