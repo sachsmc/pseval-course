@@ -2,6 +2,8 @@ library(pseval)
 library(survival)
 library(splines)
 
+set.seed(721)
+
 test <- generate_example_data(2000)
 test2 <- generate_example_data(500)
 
