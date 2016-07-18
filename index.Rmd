@@ -16,7 +16,7 @@ output: html_document
     
 ## Handouts
 
-- [pseval Cheatsheet](https://sachsmc.github.io/pseval-course/psevael-cheatsheet.pdf)
+- [pseval Cheatsheet](https://sachsmc.github.io/pseval-course/pseval-cheatsheet.pdf)
 - [Intro to R slides](https://sachsmc.github.io/pseval-course/pseval-practicum.pdf)
 
 ## Contact
