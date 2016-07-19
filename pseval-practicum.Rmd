@@ -301,6 +301,7 @@ rio::import("data.xlsx")
 
 Do your homework:
 
+- Read the error or warning message
 - Read help files, documentation
 - Make sure all software is up to date
 - Search first: https://stackoverflow.com/questions/tagged/r
