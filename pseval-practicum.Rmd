@@ -6,7 +6,7 @@ subtitle: Session 8
 output: 
      beamer_presentation:
         pandoc_args: [
-        "--variable", "classoption=aspectratio=169"
+        "--variable", "classoption=aspectratio=43"
         ]
 ---
 
