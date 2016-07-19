@@ -326,7 +326,7 @@ Install the `pseval` package:
 
 Read about and download one of the example data sets: 
 
-- [Link forthcoming]
+- https://sachsmc.github.io/pseval-course
 
 ## Exercises
 
